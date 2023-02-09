@@ -10,8 +10,6 @@
 <h2 align="center"> Hi there, I'm Ilkin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
 <h2/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ilkinguluzade&theme=blue-green&show_icons=true" align="left" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinguluzade&layout=compact" align="left" 
 width="47%"/>
 
