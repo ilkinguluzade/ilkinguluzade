@@ -1,6 +1,6 @@
 <p align="center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinguluzade&layout=compact" 
-width="30%"/>
+width="50%"/>
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" />
   </p>
