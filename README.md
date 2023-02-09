@@ -1,3 +1,11 @@
+  <h2 align="center"> Hi there, I'm Ilkin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
+<h2/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinguluzade&layout=compact" align="left" 
+width="47%"/>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" /></p>
+  
   <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
 
@@ -8,13 +16,7 @@
   <img src="https://profile-counter.glitch.me/ilkinguluzade/count.svg"/>
 </p>
 <br/>
-<h2 align="center"> Hi there, I'm Ilkin <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=22px height=22px />
-<h2/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinguluzade&layout=compact" align="left" 
-width="47%"/>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" /></p>
 
 
 
