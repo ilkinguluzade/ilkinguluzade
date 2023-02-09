@@ -1,5 +1,5 @@
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 
@@ -42,5 +42,5 @@ width="47%"/>
 <img align="center"" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white">
  </p>
-  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
