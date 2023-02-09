@@ -20,12 +20,12 @@ width="47%"/>
 <br/>
   
 ### Connect with me:
-<p align="center">
+
 [<img height="22" width="22"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
 [<img height="22" width="22"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
 [Linkedin]: https://www.linkedin.com/in/guluzvde/
 [Instagram]: https://www.instagram.com/guluzvde/
-<p>
+
 
 <br />
 
