@@ -1,3 +1,11 @@
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br>
+<br>
+
+
+
+
+
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
