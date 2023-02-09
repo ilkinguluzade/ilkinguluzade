@@ -18,16 +18,6 @@ width="47%"/>
 
 
 
-<br/>
-## Connect with me:
- 
-[<img height="22" width="22"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
- 
-[<img height="22" width="22"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" />][Instagram]
- 
-[Linkedin]: https://www.linkedin.com/in/guluzvde/
-[Instagram]: https://www.instagram.com/guluzvde/
-<br />
 
 ## Technologies:
  <p align = "center">
@@ -43,5 +33,5 @@ width="47%"/>
 <img align="center"" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/php-%231572B6.svg?style=for-the-badge&logo=php&logoColor=white">
  </p>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
