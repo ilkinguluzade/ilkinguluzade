@@ -18,7 +18,7 @@ width="47%"/>
 
 
 <br/>
-### Connect with me:
+## Connect with me:
  
 [<img height="22" width="22"  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" />][linkedin]
  
