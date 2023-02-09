@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Jayhun24&theme=blue-green&show_icons=true" align="left" width="46%"/>
 
-<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" />
+<p align="center"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" /></p>
   
   <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
