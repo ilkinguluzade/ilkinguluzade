@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=Jayhun24&theme=blue-green&show_icons=true" align="left" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jayhun24&theme=blue-green&show_icons=true" align="left" width="46%"/>
 
 <img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" />
   
