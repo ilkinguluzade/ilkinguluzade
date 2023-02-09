@@ -2,7 +2,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkinguluzade&layout=compact" 
 width="50%"/>
 
-<p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" /></p>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkinguluzade&" alt="Ilkin Guluzade" />
   
   <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
 
