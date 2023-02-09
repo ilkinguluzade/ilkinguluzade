@@ -1,19 +1,7 @@
-<div style="display:"flex">
- <div>
+
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- </div>
- <div>
-  <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ilkinguluzade/count.svg"/>
-</p>
- </div>
-</div>
 
 
-
-
-<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
