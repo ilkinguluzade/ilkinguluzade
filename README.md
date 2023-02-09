@@ -2,6 +2,26 @@
 <br>
 <br>
 
+## night coding gif:
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+<br>
+<br> 
+
+## code the cool stuff:
+<img align="center" src="https://media.giphy.com/media/RK5KD6UcUpAt92zZvt/giphy.gif" />
+<br>
+
+## nothing productive:
+<img align="center" src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+
+
+## need some space:
+<br>
+<div align="center">
+<img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" height="270px" width="450px" alt="GIF" />
+<br>
+<br>
+<br>
 
 
 
