@@ -9,7 +9,7 @@
   <a href="https://buymeacoffee.com/ilkinjs"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="ilkinguluzade" /></a>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilkinguluzade&theme=dracula)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilkinguluzade&theme=tokyo-night)]
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkinguluzade&theme=onedark&row=2&column=3" alt="ilkinguluzade" /></a> </p>
 
