@@ -10,7 +10,7 @@
 </div>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkinguluzade&theme=onedark&row=2&column=3" alt="ilkinguluzade" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkinguluzade&theme=onedark&row=2&column=3" alt="ilkinguluzade" /></a> </p>
 
 - 🔭 I’m currently working in **Secret Agency** 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/guluzvde), [instagram](https://www.instagram.com/1lkin.js) or by [mail](mailto:theglzdilkin@gmail.com)
