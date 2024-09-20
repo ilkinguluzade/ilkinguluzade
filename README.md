@@ -15,9 +15,7 @@
 - 🔭 I’m currently working in **Secret Agency** 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/guluzvde), [instagram](https://www.instagram.com/1lkin.js) or by [mail](mailto:theglzdilkin@gmail.com)
 
-<p align="center">
-  <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-</p>
+![Metrics](https://metrics.lecoq.io/ilkinguluzade?template=classic&isocalendar=1&lines=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FBaku)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
